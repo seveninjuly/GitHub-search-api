@@ -1,4 +1,4 @@
-GitHub search tool
+GitHub search tool: https://seveninjuly.github.io/GitHub-search-api/
 
 Requirements:
 
